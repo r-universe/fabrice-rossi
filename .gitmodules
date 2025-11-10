@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/fabrice-rossi/fabrice-rossi.r-universe.dev
 	branch = HEAD
+[submodule "blvim"]
+	path = blvim
+	url = https://github.com/fabrice-rossi/blvim
 [submodule "mixvlmc"]
 	path = mixvlmc
 	url = https://github.com/fabrice-rossi/mixvlmc
